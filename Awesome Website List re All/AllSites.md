@@ -38,6 +38,20 @@ As always, any comments/concerns/suggestions are welcome and encouraged.
 
 
 ## Movies & TV (one link re music at end)
+- [123movies](https://123moviesfun.org)
+- [Cine.to](https://cine.to)
+- [Look Movie](https://lookmovie.ag)
+- [AZ Movies](https://azmovies.xyz)
+- [Watch Online](https://watchonline.al)
+- [Yes Movies](https://yesmovies.to)
+- [HD II](https://hdo.to)
+- [On Movies](https://onmovies.se)
+- [Ripple](https://ripple.is)
+- [DDL Valley](https://ddlvalley.me)
+- [DDL Valley 2](https://2ddl.ws)
+- [Library Genesis](https://gen.lib.rus.ec) *Ebooks*
+- [Audio Books](https://audiobookbay.nl) *Audio Books*
+- [IP Live](https://iplive.club) **Amazing Search Engine**
 - [HDPopcorn](https://hdpopcorns.co)
 - [Filesloop](https://filesloop.com)
 - [Put.io](https://put.io)
