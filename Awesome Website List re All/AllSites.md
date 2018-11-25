@@ -1,4 +1,4 @@
-# All Useful Websites
+  # All Useful Websites
 These range from locating torrent or [mostly] DDL websites re Movies, TV and Documentaries. At the bottom, there will also be a subsection for all porn related inquiries. 
 
 I personally do not find the whole "Furry" thing appealing, so any sites where that is the main focus are not included in this list. Sorry, I had a hard enough time compiling my favorites and curating this list. Otherwise, all general varieties should be available within any of the websites located in this list (TS, Gay, Straight, Bi, etc). 
@@ -34,4 +34,57 @@ As always, any comments/concerns/suggestions are welcome and encouraged.
 - [xMovies For You](https://www.xmoviesforyou.com)
 - [Beeg](https://www.beeg.com)
 - [VK](https://www.vk.com)
-- [**A+**Yes Porn Please](https://www.yespornplease.com)
+- [**A+** Yes Porn Please](https://www.yespornplease.com)
+
+
+## Movies & TV (one link re music at end)
+- [HDPopcorn](https://hdpopcorns.co)
+- [Filesloop](https://filesloop.com)
+- [Put.io](https://put.io)
+- [YTS](https://yts.am)
+- [Seedr](https://seedr.cc)
+- [Filestream](https://filestream.me)
+- [ololo](https://ololo.to)
+- [Hub Movies](https://hubmovies.cc)
+- [Putlocker 1](https://putlocker.cc)
+- [Putlocker 2](https://putlocker.wtf)
+- [Putlocker 3](https://putlocker.cl)
+- [Putlocker 4](https://putlocker9.download)
+- [Primewire 1](https://primewire.gr)
+- [Primewire 2](https://primewire.li)
+- [Primewire 3](https://primewire.uno)
+- [Warez-BB](https://warez-bb.org)
+- [Alluc](https://alluc.uno)
+- [Crawler](https://crawler.to) *File Search Engine*
+- [Time to Watch](https://timetowatch.video)
+- [Solar Movie](https://solarmovie.ms)
+- [Move Flixter](https://movieflixter.to)
+- [Yify](https://yify.vc)
+- [Panda Movies](https://pandamovies.net)
+- [zMovies](https://zmovies.css)
+- [Movie4u](https://movie4u.live)
+- [Watch Movies FRee](https://watchmoviesfree.us)
+- [Popcorn Time](https://popcorntime.sh)
+- [Mega Share](https://megashare.movie)
+- [Movie Rill](https://movierill.com)
+- [Search Shared](https://searchshared.com)
+- [Sonic Seedbox](https://sonicseedbox.com)
+- [HQ Full](https://hqfull.com)
+- [RARBG](https://rarbg.to)
+- [1337x](https://1337x.to)
+- [Go Movies](https://gomovieshd.be)
+- [Couch Tuner](https://couchtuner2.in)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
