@@ -97,7 +97,7 @@ That is my Spiel. Now, on with the list!
 - __10Minute Mail__
 - __Mail.com__ (reg)
 - __Bloody Viking (FF Addon)_
-
+- __Cock.li__
 ### Cloud Services - Mostly Free or @Least Partially Free
 - Flipdrive
 - OneDrive
