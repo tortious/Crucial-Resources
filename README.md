@@ -58,6 +58,7 @@ That is my Spiel. Now, on with the list!
 - __Atom__
 - __Python__
 - __Virtual Box__
+- __Eclipse__
 
 ### Efficiency & Under The Hood Stuff
 - __7-Zip__
@@ -71,7 +72,7 @@ That is my Spiel. Now, on with the list!
 - __Etcher__
 - __Rufus__
 - __PhantomJS__
-- 
+ 
 
 ### Terminal Emulators
 - __Hyper Terminal__
@@ -89,6 +90,7 @@ That is my Spiel. Now, on with the list!
 - __TronScript__
 - __ProtonVPN__
 - __Windscribe VPN__
+- __Virus Total__
 
 ### Privacy-Conscious Email
 - __Tutanota__
@@ -98,6 +100,10 @@ That is my Spiel. Now, on with the list!
 - __Mail.com__ (reg)
 - __Bloody Viking (FF Addon)_
 - __Cock.li__
+- __Startmail__
+- __Neutron Mail__
+- __File Mail__
+
 ### Cloud Services - Mostly Free or @Least Partially Free
 - Flipdrive
 - OneDrive
@@ -125,6 +131,16 @@ That is my Spiel. Now, on with the list!
 - Mimedia
 - Cubby
 - Jottacloud
+- Seafile
+- Jirafaeu
+
+### Hacking & Penetration Testing
+- Mimikatz
+- HD Ripper
+- Duplicati
+- Pf Sense
+- Wireshark
+- Drop Jar **Awesome - look up when you have time**
 
 ### Media & Customization Software
 - __VLC Media Player__
@@ -158,3 +174,5 @@ That is my Spiel. Now, on with the list!
 - __Standard Notes__
 - __Umbrella Note__
 - __SimpleNote__
+- __Cinta Notes__
+  
