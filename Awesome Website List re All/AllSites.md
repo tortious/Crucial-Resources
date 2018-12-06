@@ -7,6 +7,17 @@ Finally, there is also an admittedly small subsection which highlight websites t
 
 As always, any comments/concerns/suggestions are welcome and encouraged. 
 
+##### Sidenote
+When using Mega.nz links stemming from forum.snahp.it and you come across the following (instead of the usual base64 decoder):
+
+MEGA | Combine M + K
+-----------|-------------
+M: #F!ZCoGHZAb
+K: !KWCq6BKTN33UXUd_NOzoLQ
+
+All you need to do is type mega.nz/MK and replace the "M" and "K" with the characters given by the OP poser. Thus, instead it will look like  mega.nz/#F!ZCoGHZAb!KWCq6BKTN33UXUd_NOzoLQ
+
+
 ## Porn Sites re Ripping and DDL
 - [eporner](https://www.eporner,com)
 - [Biqle](https://www.biqle.ru)
