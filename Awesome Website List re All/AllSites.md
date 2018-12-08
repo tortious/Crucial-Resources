@@ -111,6 +111,14 @@ All you need to do is type mega.nz/MK and replace the "M" and "K" with the chara
 - [Fmovies](https://fmovies.mx/)
 - [OD Database](https://od-db.the-eye.eu/)
 
+## Working List of Subreddit w/ Streaming Movies
+- [List of Streaming Sites](https:www.reddit.com/r/moviestreamingsites)
+- [FullMoviesonGoogle](https:www.reddit.com/r/fullmoviesongoogle)
+- [FullLengthFilms](https:www.reddit.com/r/fulllengthfilms)
+- [FullMoviesWatchOnline](https:www.reddit.com/r/fullmovieswatchonline)
+- [Shit_to_Watch_online](https:www.reddit.com/r/shit_to_watch_online)
+- [MoviesonGoogle](https:www.reddit.com/r/moviesongoogle)
+- [FullofMovies](https:www.reddit.com/r/fullofmovies)
 
 
 
@@ -121,6 +129,32 @@ All you need to do is type mega.nz/MK and replace the "M" and "K" with the chara
 
 ## Emails
 - [Cock.li](https://cock.li/)
+
+
+## List of Awesome Working Directories
+- [1](https://awooo.moe/)
+- [2](http://server1.timepassbd.com/ftpdata1/Movies/Hollywood/)
+- [3](http://dl8.heyserver.in/serial/)
+- [4](http://server1.timepassbd.com/ftpdata1/Movies/)
+- [Lib.Gen](http://gen.lib.rus.ec/)
+- [5](http://ns331974.ip-37-187-18.eu/Downloads/Older/The%20Sims%204/)
+- [6](https://vod.fantasticiptv.tk/peliculas/)
+- [7](https://vod.fantasticiptv.tk/series/)
+- [8](http://s1.tinydl.info/Movies2/)
+- [9](http://kunalsdatabase.com/files/popularmusic/2Pac/) music
+- [The Eye](https://the-eye.eu/public/AudioBooks/)
+- [10](https://releases.opennt.eu/) 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
