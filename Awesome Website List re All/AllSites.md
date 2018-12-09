@@ -191,7 +191,7 @@ All you need to do is type mega.nz/MK and replace the "M" and "K" with the chara
 - [21](http://s3.bitdownload.ir/Learning/)
 - [Directory of Software](http://s1.bitdownload.ir/Software/)
 - [FILE PURSUIT - Awesome Stuff here list-wise of directories](https://filepursuit.com/discover.php?startrow=300)
-
+- [22](http://server1.timepassbd.com/ftpdata1/Movies/Hollywood/2018/)
 
 
 
