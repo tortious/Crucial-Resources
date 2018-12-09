@@ -1,5 +1,5 @@
   # All Useful Websites
-These range from locating torrent or [mostly] DDL websites re Movies, TV and Documentaries. At the bottom, there will also be a subsection for all porn related inquiries. 
+These range from locating torrent or [mostly] DDL websites re Movies, TV and Documentaries. At the bottom, there will also be a subsection for all porn related inquiries.   
 
 I personally do not find the whole "Furry" thing appealing, so any sites where that is the main focus are not included in this list. Sorry, I had a hard enough time compiling my favorites and curating this list. Otherwise, all general varieties should be available within any of the websites located in this list (TS, Gay, Straight, Bi, etc). 
 
@@ -16,6 +16,16 @@ M: #F!ZCoGHZAb
 K: !KWCq6BKTN33UXUd_NOzoLQ
 
 All you need to do is type mega.nz/MK and replace the "M" and "K" with the characters given by the OP poser. Thus, instead it will look like  mega.nz/#F!ZCoGHZAb!KWCq6BKTN33UXUd_NOzoLQ
+
+## Reddit Alternative
+- [Raddle](https://raddle.me)
+- [Voat](https://voat.co/v/codeleaks/)
+- [HiddenHands - Awesome Resource for literally everything I11icit](https://hiddenhand.club/)
+- [Nulled - Awesome and more thorough version of hiddenhand, but also more known](https://www.nulled.to/)
+
+
+
+
 
 ## Guides re Open Directories
 - [Noob Guide to Open Directories/FTP Sites](https://old.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/)
