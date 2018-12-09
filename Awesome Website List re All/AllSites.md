@@ -148,7 +148,8 @@ All you need to do is type mega.nz/MK and replace the "M" and "K" with the chara
 - [PassionHD](http://galleries.passion-hd.com/pb01/)
 - [PassionHD 2](http://galleries.passion-hd.com/pb02/)
 
-
+## Massive List of FTP Servers (Have no checked them yet)
+[Link to Plaintext version of List](https://raw.githubusercontent.com/HerbL27/FileMasta/master/Public/ftp-servers.txt)
 
 
 
