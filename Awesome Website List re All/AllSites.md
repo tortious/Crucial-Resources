@@ -22,7 +22,10 @@ All you need to do is type mega.nz/MK and replace the "M" and "K" with the chara
 - [Voat](https://voat.co/v/codeleaks/)
 - [HiddenHands - Awesome Resource for literally everything I11icit](https://hiddenhand.club/)
 - [Nulled - Awesome and more thorough version of hiddenhand, but also more known](https://www.nulled.to/)
-
+- [Lobster.rs]
+- [List of Reddit Alts](https://alternativeto.net/list/1022/best-open-source-reddit-alternatives-you-should-know-about)
+- [Slashdot](https://slashdot.org)
+- [Paol.co - seems pretty good at first glance](https://poal.co/)
 
 
 
