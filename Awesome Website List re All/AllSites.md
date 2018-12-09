@@ -119,7 +119,7 @@ All you need to do is type mega.nz/MK and replace the "M" and "K" with the chara
 - [Shit_to_Watch_online](https:www.reddit.com/r/shit_to_watch_online)
 - [MoviesonGoogle](https:www.reddit.com/r/moviesongoogle)
 - [FullofMovies](https:www.reddit.com/r/fullofmovies)
-
+- [WatchEpisodes](https://watchepisodeseries.bypassed.wtf/)
 
 
 
@@ -132,6 +132,7 @@ All you need to do is type mega.nz/MK and replace the "M" and "K" with the chara
 
 
 ## List of Awesome Working Directories
+- [Archived List of a Shitload of Directories](https://web.archive.org/web/20180525045348/https://github.com/HerbL27/FileMasta/blob/master/Public/open-directories.txt)
 - [1](https://awooo.moe/)
 - [2](http://server1.timepassbd.com/ftpdata1/Movies/Hollywood/)
 - [3](http://dl8.heyserver.in/serial/)
@@ -144,6 +145,8 @@ All you need to do is type mega.nz/MK and replace the "M" and "K" with the chara
 - [9](http://kunalsdatabase.com/files/popularmusic/2Pac/) music
 - [The Eye](https://the-eye.eu/public/AudioBooks/)
 - [10](https://releases.opennt.eu/) 
+- [PassionHD](http://galleries.passion-hd.com/pb01/)
+- [PassionHD 2](http://galleries.passion-hd.com/pb02/)
 
 
 
