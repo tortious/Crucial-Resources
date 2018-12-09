@@ -202,7 +202,8 @@ All you need to do is type mega.nz/MK and replace the "M" and "K" with the chara
 [Link to Plaintext version of List](https://raw.githubusercontent.com/HerbL27/FileMasta/master/Public/ftp-servers.txt)
 
 
-
+## Miscellaneous
+* [Virus total](https://www.virustotal.com/#/home/upload)
 
 
 
